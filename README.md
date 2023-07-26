@@ -1,2 +1,2 @@
 # Dictionary_Application
-This is an online Dictionary application.
+This is an API-based Dictionary application.
