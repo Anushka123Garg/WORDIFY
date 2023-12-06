@@ -1,2 +1,2 @@
-# Dictionary_Application
+# WORDIFY
 This is an online Dictionary application.
